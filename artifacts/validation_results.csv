@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2
+linear_regression,3.691,4.714,0.882
+random_forest,4.12,5.263,0.852
+decision_tree,4.883,6.328,0.787
+baseline,10.857,13.773,-0.011
